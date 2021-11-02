@@ -1,1 +1,2 @@
-# Reccuperacion_Sprint3_CL3
+El presente trabajo está realizado por: Adriana Mayded Castellanos Olarte
+Sprint3 - Recuperación
